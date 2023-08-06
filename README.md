@@ -4,7 +4,9 @@
 commit
 날짜_문제번호
 
-<detail>
+<details>
+<summary>파일 형식</summary>
+  
 # 파트, 문제번호 "제목"
 
 내용
@@ -13,4 +15,4 @@ commit
 예제 코드
 ```
 
-</detail>
+</details>
